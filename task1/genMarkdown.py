@@ -2,7 +2,7 @@ from get_table import get_table
 
 def getTitleAndDesc():
     ret =  '# 10 highest rated european Valorant teams\n'
-    ret += 'Scrapped from [vlr](https://www.vlr.gg/rankings) \n'
+    ret += 'Scrapped from [vlr](https://www.vlr.gg/rankings).\n\n'
     return ret
 
 #table = [(int) place, 'name', 'region', 'imgname']
