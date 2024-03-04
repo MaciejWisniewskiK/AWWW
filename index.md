@@ -1,4 +1,8 @@
-# 10 highest rated european Valorant teams
+---
+layout: home
+title: "10 highest rated european Valorant teams"
+---
+
 Scrapped from [vlr](https://www.vlr.gg/rankings).
 
 ## 1. FNATIC <img src="team_logos/62a40cc2b5e29.png" width="20" height="20">
