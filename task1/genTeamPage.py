@@ -1,5 +1,12 @@
 from googlesearch import search
 
+def genCommonPrefix(team_name):
+    md = '---\n'
+    md += f'layout: "page"\n'
+    md += f'title: {team_name}\n'
+    md += '---\n\n'
+    return md
+
 def genTeamPage(team_number, team_name):
     md = f'Google search results on "{team_name} valorant team":\n\n'
     results = search(f'{team_name} valorant team', stop=5)
