@@ -12,7 +12,7 @@ def getTitleAndDesc():
 def genOneElement(element):
     ret =  f'## {element[0]}. {element[1]} <img src="team_logos/{element[3]}" width="20" height="20">\n'
     ret += f' ### Region: {element[2]}\n'
-    ret += f' [More info on {element[1]}](team_pages/{element[1]}.md)\n\n'
+    ret += f' [More info on {element[1]}](team_pages/team_page{element[0]}.md)\n\n'
 
     shutil.copy(f'content/{element[3]}', f'page_files/team_logos/{element[3]}')
     
@@ -26,7 +26,7 @@ def genMarkdown(dest_file, regen_subpages):
         print(f'Working on {element[1]}')
         markdown_list += genOneElement(element)
         if regen_subpages:
-            genTeamPage(element[1])
+            genTeamPage(element[0], element[1])
     
     with open(dest_file, 'w') as file:
         file.write(markdown_list)
