@@ -1,7 +1,7 @@
 Google search results on "Gentle Mates valorant team":
 
-[https://www.thespike.gg/team/gentle-mates/18828](https://www.thespike.gg/team/gentle-mates/18828)
-[https://www.vlr.gg/team/12694/gentle-mates](https://www.vlr.gg/team/12694/gentle-mates)
-[https://www.vlr.gg/team/stats/12694/gentle-mates/](https://www.vlr.gg/team/stats/12694/gentle-mates/)
-[https://www.vlr.gg/241441/gentle-mates-sweep-apeks-and-claim-vct-emea-slot](https://www.vlr.gg/241441/gentle-mates-sweep-apeks-and-claim-vct-emea-slot)
-[https://www.vlr.gg/237652/apeks-vs-gentle-mates-champions-tour-2023-emea-ascension-gf](https://www.vlr.gg/237652/apeks-vs-gentle-mates-champions-tour-2023-emea-ascension-gf)
+7. [https://liquipedia.net/valorant/Gentle_Mates](https://liquipedia.net/valorant/Gentle_Mates)
+7. [https://liquipedia.net/valorant/Gentle_Mates/Matches](https://liquipedia.net/valorant/Gentle_Mates/Matches)
+7. [https://liquipedia.net/valorant/BeyAz](https://liquipedia.net/valorant/BeyAz)
+7. [https://liquipedia.net/valorant/Logan](https://liquipedia.net/valorant/Logan)
+7. [https://liquipedia.net/valorant/TakaS](https://liquipedia.net/valorant/TakaS)

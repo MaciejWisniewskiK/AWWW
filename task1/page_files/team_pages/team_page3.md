@@ -1,7 +1,7 @@
 Google search results on "Natus Vincere valorant team":
 
-[https://escharts.com/metaImage/teams/navi?sa=X&ved=2ahUKEwiHsP7ZiNuEAxWASGwGHfqzDAEQ_B16BAgKEAI](https://escharts.com/metaImage/teams/navi?sa=X&ved=2ahUKEwiHsP7ZiNuEAxWASGwGHfqzDAEQ_B16BAgKEAI)
-[https://escharts.com/teams/valorant/navi](https://escharts.com/teams/valorant/navi)
-[https://liquipedia.net/valorant/Natus_Vincere](https://liquipedia.net/valorant/Natus_Vincere)
-[https://liquipedia.net/valorant/G-Loot_VALORANT_Clash/Grand_Finals](https://liquipedia.net/valorant/G-Loot_VALORANT_Clash/Grand_Finals)
-[https://liquipedia.net/valorant/Ardiis](https://liquipedia.net/valorant/Ardiis)
+3. [https://liquipedia.net/valorant/Natus_Vincere](https://liquipedia.net/valorant/Natus_Vincere)
+3. [https://liquipedia.net/valorant/G-Loot_VALORANT_Clash/Grand_Finals](https://liquipedia.net/valorant/G-Loot_VALORANT_Clash/Grand_Finals)
+3. [https://liquipedia.net/valorant/Ardiis](https://liquipedia.net/valorant/Ardiis)
+3. [https://liquipedia.net/valorant/SUYGETSU](https://liquipedia.net/valorant/SUYGETSU)
+3. [https://liquipedia.net/valorant/ANGE1](https://liquipedia.net/valorant/ANGE1)
