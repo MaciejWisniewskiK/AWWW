@@ -54,27 +54,17 @@ def format_table(raw_table):
 
 
 # ------------------ MAIN --------------------
-        
-# Read HTML content from file
-table_class = 'wf-faux-table mod-teams mod-world'
-file_path = 'content/index.html'
-with open(file_path, 'r', encoding='utf-8') as file:
-    html_content = file.read()    
-
-raw_table = extract_table_data(html_content, table_class)
-
-# Print the extracted data
-#for row in raw_table:
-#    print(row)
 
 
-final_table = format_table(raw_table)
+def get_table():
+    file_path = 'content/index.html'
+    table_class = 'wf-faux-table mod-teams mod-world'
 
-#print('After format:')
-for row in final_table:
-    print(row)
+    with open(file_path, 'r', encoding='utf-8') as file:
+        html_content = file.read()    
 
-
-
+    raw_table = extract_table_data(html_content, table_class)
+    final_table = format_table(raw_table)
+    return final_table
     
 
