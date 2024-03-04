@@ -3,8 +3,16 @@ from genTeamPage import genTeamPage
 
 import shutil
 
+def getFrontMatter():
+    ret =  '---\n'
+    ret += 'layout: home\n'
+    ret += 'title: "10 highest rated european Valorant teams"\n'
+    ret += '---\n\n'
+    return ret
+
 def getTitleAndDesc():
-    ret =  '# 10 highest rated european Valorant teams\n'
+    #ret =  '# 10 highest rated european Valorant teams\n'
+    ret = getFrontMatter()
     ret += 'Scrapped from [vlr](https://www.vlr.gg/rankings).\n\n'
     return ret
 

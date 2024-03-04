@@ -2,7 +2,7 @@ from googlesearch import search
 
 def genCommonPrefix(team_name):
     md = '---\n'
-    md += f'layout: "page"\n'
+    md += f'layout: "team_page"\n'
     md += f'title: {team_name}\n'
     md += '---\n\n'
     md += f'Google search results on "{team_name} valorant team":\n\n'
