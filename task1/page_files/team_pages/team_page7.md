@@ -1,3 +1,8 @@
+---
+layout: "page"
+title: Gentle Mates
+---
+
 Google search results on "Gentle Mates valorant team":
 
 7. [https://liquipedia.net/valorant/Gentle_Mates](https://liquipedia.net/valorant/Gentle_Mates)

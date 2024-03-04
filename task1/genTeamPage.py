@@ -5,10 +5,11 @@ def genCommonPrefix(team_name):
     md += f'layout: "page"\n'
     md += f'title: {team_name}\n'
     md += '---\n\n'
+    md += f'Google search results on "{team_name} valorant team":\n\n'
     return md
 
 def genTeamPage(team_number, team_name):
-    md = f'Google search results on "{team_name} valorant team":\n\n'
+    md = genCommonPrefix(team_name)
     results = search(f'{team_name} valorant team', stop=5)
     for url in results:
         md += f'{team_number}. [{url}]({url})\n'

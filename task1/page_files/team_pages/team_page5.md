@@ -1,3 +1,8 @@
+---
+layout: "page"
+title: FUT Esports
+---
+
 Google search results on "FUT Esports valorant team":
 
 5. [https://liquipedia.net/valorant/FUT_Esports](https://liquipedia.net/valorant/FUT_Esports)
