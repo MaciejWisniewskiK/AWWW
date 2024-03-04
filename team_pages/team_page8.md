@@ -1,3 +1,8 @@
+---
+layout: "page"
+title: KPI Gaming
+---
+
 Google search results on "KPI Gaming valorant team":
 
 8. [https://www.vlr.gg/team/6313/kpi-gaming](https://www.vlr.gg/team/6313/kpi-gaming)

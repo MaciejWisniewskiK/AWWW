@@ -1,3 +1,8 @@
+---
+layout: "page"
+title: GIANTX
+---
+
 Google search results on "GIANTX valorant team":
 
 10. [https://liquipedia.net/valorant/Giants](https://liquipedia.net/valorant/Giants)

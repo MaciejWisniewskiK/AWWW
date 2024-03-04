@@ -1,3 +1,8 @@
+---
+layout: "page"
+title: Acend
+---
+
 Google search results on "Acend valorant team":
 
 2. [https://liquipedia.net/valorant/Acend](https://liquipedia.net/valorant/Acend)

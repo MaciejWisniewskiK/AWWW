@@ -1,3 +1,8 @@
+---
+layout: "page"
+title: DSYRE
+---
+
 Google search results on "DSYRE valorant team":
 
 6. [https://www.vlr.gg/team/6538/dsyre](https://www.vlr.gg/team/6538/dsyre)

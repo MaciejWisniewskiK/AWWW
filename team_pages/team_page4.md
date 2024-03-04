@@ -1,3 +1,8 @@
+---
+layout: "page"
+title: MOUZ
+---
+
 Google search results on "MOUZ valorant team":
 
 4. [https://liquipedia.net/valorant/MOUZ](https://liquipedia.net/valorant/MOUZ)

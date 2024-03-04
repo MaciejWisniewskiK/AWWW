@@ -1,3 +1,8 @@
+---
+layout: "page"
+title: Natus Vincere
+---
+
 Google search results on "Natus Vincere valorant team":
 
 3. [https://liquipedia.net/valorant/Natus_Vincere](https://liquipedia.net/valorant/Natus_Vincere)

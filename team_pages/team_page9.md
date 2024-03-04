@@ -1,3 +1,8 @@
+---
+layout: "page"
+title: Team Liquid
+---
+
 Google search results on "Team Liquid valorant team":
 
 9. [https://liquipedia.net/valorant/Team_Liquid](https://liquipedia.net/valorant/Team_Liquid)
