@@ -1,30 +1,20 @@
-## 1. FNATIC
+## 1. FNATIC ![FNATIC logo](https://owcdn.net/img/62a40cc2b5e29.png)
  ### REGION: Europe
- ![FNATIC logo](https://owcdn.net/img/62a40cc2b5e29.png)
-## 2. Acend
+## 2. Acend ![Acend logo](https://owcdn.net/img/62a4157412b4f.png)
  ### REGION: Europe
- ![Acend logo](https://owcdn.net/img/62a4157412b4f.png)
-## 3. Natus Vincere
+## 3. Natus Vincere ![Natus Vincere logo](https://owcdn.net/img/62a4109ddbd7f.png)
  ### REGION: Europe
- ![Natus Vincere logo](https://owcdn.net/img/62a4109ddbd7f.png)
-## 4. MOUZ
+## 4. MOUZ ![MOUZ logo](https://owcdn.net/img/61f8e777f0e8f.png)
  ### REGION: Europe
- ![MOUZ logo](https://owcdn.net/img/61f8e777f0e8f.png)
-## 5. FUT Esports
+## 5. FUT Esports ![FUT Esports logo](https://owcdn.net/img/632be9976b8fe.png)
  ### REGION: Turkey
- ![FUT Esports logo](https://owcdn.net/img/632be9976b8fe.png)
-## 6. DSYRE
+## 6. DSYRE ![DSYRE logo](https://owcdn.net/img/639b017f8d1fd.png)
  ### REGION: Europe
- ![DSYRE logo](https://owcdn.net/img/639b017f8d1fd.png)
-## 7. Gentle Mates
+## 7. Gentle Mates ![Gentle Mates logo](https://owcdn.net/img/643bed90680b9.png)
  ### REGION: France
- ![Gentle Mates logo](https://owcdn.net/img/643bed90680b9.png)
-## 8. KPI Gaming
+## 8. KPI Gaming ![KPI Gaming logo](https://owcdn.net/img/6359119895b14.png)
  ### REGION: Russia
- ![KPI Gaming logo](https://owcdn.net/img/6359119895b14.png)
-## 9. Team Liquid
+## 9. Team Liquid ![Team Liquid logo](https://owcdn.net/img/640c381f0603f.png)
  ### REGION: Europe
- ![Team Liquid logo](https://owcdn.net/img/640c381f0603f.png)
-## 10. GIANTX
+## 10. GIANTX ![GIANTX logo](https://owcdn.net/img/657b2f3fcd199.png)
  ### REGION: Europe
- ![GIANTX logo](https://owcdn.net/img/657b2f3fcd199.png)
