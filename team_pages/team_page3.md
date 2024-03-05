@@ -1,5 +1,4 @@
 ---
-exclude: true
 layout: "page"
 title: Natus Vincere
 ---
