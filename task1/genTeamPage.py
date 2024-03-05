@@ -2,7 +2,6 @@ from googlesearch import search
 
 def genCommonPrefix(team_name):
     md = '---\n'
-    md += f'exclude: true\n'
     md += f'layout: "page"\n'
     md += f'title: {team_name}\n'
     md += f'---\n\n'

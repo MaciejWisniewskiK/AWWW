@@ -1,5 +1,4 @@
 ---
-exclude: true
 layout: "page"
 title: FUT Esports
 ---
