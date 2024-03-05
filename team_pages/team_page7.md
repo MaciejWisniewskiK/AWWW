@@ -1,5 +1,6 @@
 ---
-layout: "team_page"
+exclude: true
+layout: "page"
 title: Gentle Mates
 ---
 
